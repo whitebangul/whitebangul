@@ -12,11 +12,42 @@ I’m a CS student with a focus on systems programming and game development. Thr
 I bridge low-level systems programming with gameplay design, allowing me to build games that are not only engaging for players but also efficient, scalable, and architecturally clean.
 
 ## Project 1 
-Pess shooter
-A top-down view 2D shooting game developed using Unity Engine and C#.
-In charge of Game Logic Design, Systems Implementation, UI Design, Debugging, Backend Architecture.
-Completed Date: 2026
-Collaborators: Evan, Nick, Saul
+### PESS Shooter
+
+Top-Down 2D Action Shooting Game built with Unity and C#
+
+### Overview
+
+Pess Shooter is a fast-paced top-down 2D shooter where players fight waves of enemies using different weapons while managing health and score progression.
+
+This project was developed as part of a team-based game development course, with a focus on building responsive gameplay systems and improving player experience.
+
+### My Contributions
+* Gameplay Systems & Debugging
+Debugged and fixed score calculation logic to ensure consistent and fair scoring
+Identified and resolved issues in weapon behavior, improving combat reliability
+* UI Development
+Designed and implemented a dynamic health bar UI
+Integrated UI updates with gameplay events for real-time feedback
+* Feature Development
+Proposed and implemented new gameplay features to improve engagement
+Contributed to boss mechanics, enhancing difficulty and game variety
+* Tech Stack
+Engine: Unity
+Language: C#
+Tools: Unity UI System, MonoBehaviour scripting
+
+### Key Challenges
+Ensuring accurate score tracking across different enemy interactions
+Debugging real-time weapon systems under varying gameplay conditions
+Designing UI that is both responsive and visually clear during combat
+### Outcomes & Learnings
+Improved stability and reliability of core gameplay systems
+Strengthened skills in debugging real-time systems
+Gained experience designing player-facing UI systems
+Collaborated effectively in a team-based development environment
+### Demo
+[Unity Demo](https://play.unity.com/en/games/4ad06321-c4f0-4fc0-ae94-68d7e31958e0/pess-shooter)
 
 ## Project 2
 Xylo
